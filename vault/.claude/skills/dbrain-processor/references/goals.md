@@ -4,99 +4,102 @@
 
 Before processing daily entries:
 
-1. **Read current focus:**
-   ```
+1. **Read current weekly focus:**
    Read goals/3-weekly.md → Extract ONE Big Thing
-   ```
 
 2. **Read yearly goals:**
-   ```
-   Read goals/1-yearly-2025.md → Know active goals by area
-   ```
+   Read goals/1-yearly-2026.md → Know active goals by area
 
 3. **Check monthly priorities:**
-   ```
    Read goals/2-monthly.md → Top 3 priorities
-   ```
+
+---
 
 ## Goal Alignment
 
-When creating a task, ask:
+When creating a task, ALWAYS check alignment in this order:
 
 1. **Does it connect to ONE Big Thing?**
    - Yes → add to task description: `→ Weekly focus`
    - No → continue checking
 
-2. **Does it connect to monthly priority?**
+2. **Does it connect to a monthly priority?**
    - Yes → add: `→ Monthly: [Priority name]`
    - No → continue checking
 
-3. **Does it connect to yearly goal?**
+3. **Does it connect to a yearly goal?**
    - Yes → add: `→ Goal: [Goal name]`
-   - No → mark as "operational"
+   - No → mark as **operational**
+
+---
 
 ## Task Priority Boost
 
-If task aligns with goals, consider priority bump:
+If a task aligns with goals, adjust priority:
 
 | Alignment | Default | Boost to |
 |-----------|---------|----------|
 | ONE Big Thing | p3 | p2 |
-| Monthly priority | p3 | p2-p3 |
+| Monthly priority | p3 | p2–p3 |
 | Yearly goal | p4 | p3 |
 | No alignment | p4 | p4 |
 
+**Rule:** If a task relates to *clients, деньги или доход* — it can never be below **p3**.
+
+---
+
 ## Saving Thoughts
 
-When saving to thoughts/:
+When saving entries to `thoughts/`:
 
 1. **Check goal relevance:**
-   - Scan goals/1-yearly-2025.md for matching areas
+   - Scan `goals/1-yearly-2026.md` for matching areas
    - If matches → add link in frontmatter:
      ```yaml
      related:
-       - "[[goals/1-yearly-2025#Career & Business]]"
+       - "[[goals/1-yearly-2026#Career & Business]]"
      ```
 
 2. **Tag with goal area:**
-   ```
    #goal/career
    #goal/health
-   #goal/learning
-   ```
+   #goal/personal-growth
+   #goal/financial
+
+---
 
 ## Goal Progress Tracking
 
-Track goal activity by:
+Track goal activity automatically:
+- Task created → goal = **active**
+- Thought saved → goal = **active**
+- No activity for **7+ days** → status = **stale**
+- No activity for **14+ days** → status = **warning**
 
-- Task created → goal is "active"
-- Thought saved → goal is "active"
-- No activity 7+ days → "stale"
-- No activity 14+ days → "warning"
+Primary focus is **Career & Business**. If Career goal is stale → surface warning immediately.
+
+---
 
 ## Report Section
 
-Add to report:
+Add to daily / weekly report:
 
-```
 <b>📈 Прогресс по целям:</b>
-{for each active yearly goal with recent activity:}
-• {goal}: {progress}% {status_emoji}
+• Доход $3k/мес с ИИ-сервиса: {progress}% {status_emoji}
+• Доводить дела до конца: {progress}% {status_emoji}
 
-{if stale goals:}
 <b>⚠️ Требует внимания:</b>
-• Цель "{goal}" без активности {days} дней
-```
+• {goal name} — без активности {days} дней
+
+---
 
 ## Goal File Parsing
 
 ### 3-weekly.md — Find ONE Big Thing
-
 Look for pattern:
 ```markdown
 > **If I accomplish nothing else, I will:**
 > [THE ONE THING]
-```
 
 ### 1-yearly-2025.md — Find Active Goals
 
