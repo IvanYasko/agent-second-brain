@@ -1,7 +1,7 @@
 ---
 type: weekly
-week: YYYY-WWW
-updated: YYYY-MM-DD
+week: 2026-W03
+updated: 2026-01-21
 ---
 
 # Weekly Focus
@@ -9,17 +9,15 @@ updated: YYYY-MM-DD
 ## ONE Big Thing
 
 > **If I accomplish nothing else, I will:**
-> [Single most important outcome for this week]
-
-<!-- This is read by the bot during daily processing -->
+> Получить чёткий путь к первому платящему клиенту (конкретный человек + предложение + следующий шаг к оплате)
 
 ---
 
 ## Week at a Glance
 
-**Week:** [X] of 52
-**Energy Level:** [High/Medium/Low]
-**Available Hours:** [X] hours focused work
+**Week:** 3 of 52  
+**Energy Level:** Medium  
+**Available Hours:** 30 hours focused work
 
 ---
 
@@ -27,19 +25,20 @@ updated: YYYY-MM-DD
 
 ### Must Do (Non-negotiable)
 
-- [ ] Task 1 — Связь: [[1-yearly-2025#Goal]]
-- [ ] Task 2
-- [ ] Task 3
+- [ ] Сформулировать конкретное предложение ИИ-сервиса «второй мозг»  
+  — Связь: [[1-yearly-2026#Career & Business]]
+- [ ] Определить конкретного потенциального клиента (имя / ник / контакт)
+- [ ] Сделать персональное предложение этому человеку
 
 ### Should Do (Important)
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Подготовить минимальную рабочую версию сервиса под первого клиента
+- [ ] Описать процесс настройки сервиса шаг за шагом
 
 ### Could Do (If time permits)
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Упростить онбординг для будущих клиентов
+- [ ] Зафиксировать выводы о ценности сервиса
 
 ---
 
@@ -47,33 +46,33 @@ updated: YYYY-MM-DD
 
 ### Monday
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Чётко описать проблему клиента и ценность сервиса
+- [ ] Сформулировать предложение без «продаж в лоб»
 
 ### Tuesday
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Подготовить минимальную версию сервиса
+- [ ] Проверить, что сервис реально решает задачу «второго мозга»
 
 ### Wednesday
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Найти конкретного потенциального клиента
+- [ ] Подготовить персональное сообщение / предложение
 
 ### Thursday
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Сделать контакт с клиентом
+- [ ] Ответить на вопросы, уточнить потребности
 
 ### Friday
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Зафиксировать результат недели
+- [ ] Определить следующий шаг к оплате
 
 ### Weekend
 
-- [ ] Rest / Family time
-- [ ] Optional task
+- [ ] Rest
+- [ ] Лёгкий рефлексивный обзор недели
 
 ---
 
@@ -81,8 +80,7 @@ updated: YYYY-MM-DD
 
 | Day | Time | Event | Prep |
 |-----|------|-------|------|
-| Mon | | | |
-| Tue | | | |
+| — | — | — | — |
 
 ---
 
@@ -90,9 +88,9 @@ updated: YYYY-MM-DD
 
 | Habit | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |-------|-----|-----|-----|-----|-----|-----|-----|
-| [Habit 1] | | | | | | | |
-| [Habit 2] | | | | | | | |
-| [Habit 3] | | | | | | | |
+| Начать день с самой сложной задачи | | | | | | | |
+| 6 часов сфокусированной работы | | | | | | | |
+| Прогулка / движение | | | | | | | |
 
 ---
 
@@ -112,16 +110,16 @@ updated: YYYY-MM-DD
 
 ### Next Week Focus
 
->
+> Довести первого клиента до оплаты или заменить гипотезу клиента
 
 ---
 
 ## Links
 
 - [[2-monthly]] - Monthly priorities
-- [[1-yearly-2025]] - Yearly goals
-- Previous: [[3-weekly-YYYY-WXX]]
+- [[1-yearly-2026]] - Yearly goals
+- Previous: [[3-weekly-2026-W02]]
 
 ---
 
-*Week Started: YYYY-MM-DD*
+*Week Started: 2026-01-19*

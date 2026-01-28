@@ -1,59 +1,63 @@
 ---
 type: monthly
-period: YYYY-MM
-updated: YYYY-MM-DD
+period: 2026-01
+updated: 2026-01-21
 ---
 
 # Monthly Focus
 
 ## Top 3 Priorities
 
-### Priority 1: [Your Top Priority]
-<!-- What MUST happen this month? -->
+### Priority 1: Получить первого платящего клиента
 
-**Why it matters:** [connection to yearly goal]
+**Why it matters:**  
+Это первый реальный шаг к цели 2026 — стабильный доход $3k/мес с ИИ-сервиса.
 
 **Key Actions:**
-- [ ] Action 1
-- [ ] Action 2
-- [ ] Action 3
+- [ ] Сформулировать чёткое предложение ИИ-сервиса «второй мозг»
+- [ ] Подготовить минимальную версию сервиса для клиента
+- [ ] Найти и довести до оплаты первого клиента
 
-**Definition of Done:** [clear outcome]
+**Definition of Done:**  
+Есть минимум 1 платящий клиент.
 
 ---
 
-### Priority 2: [Second Priority]
+### Priority 2: Создать рабочую базу ИИ-сервиса
 
-**Why it matters:** [connection to yearly goal]
+**Why it matters:**  
+Без устойчивой основы невозможно масштабирование и стабильность дохода.
 
 **Key Actions:**
-- [ ] Action 1
-- [ ] Action 2
-- [ ] Action 3
+- [ ] Настроить базовую архитектуру сервиса
+- [ ] Реализовать ключевые функции «второго мозга»
+- [ ] Подготовить процесс первичной настройки для клиента
 
-**Definition of Done:** [clear outcome]
+**Definition of Done:**  
+Сервис работает и готов к повторному использованию для следующих клиентов.
 
 ---
 
-### Priority 3: [Third Priority]
+### Priority 3: Стабилизировать рабочий ритм без прокрастинации
 
-**Why it matters:** [connection to yearly goal]
+**Why it matters:**  
+Поддерживает тему года «Стабильность» и цель личного роста — доводить дела до конца.
 
 **Key Actions:**
-- [ ] Action 1
-- [ ] Action 2
-- [ ] Action 3
+- [ ] Работать ежедневно в фиксированные часы
+- [ ] Начинать день с самой сложной задачи
+- [ ] Завершать запланированные задачи в течение дня
 
-**Definition of Done:** [clear outcome]
+**Definition of Done:**  
+Большинство запланированных задач месяца завершены без откладывания.
 
 ---
 
 ## NOT Doing This Month
 
-<!-- What are you consciously saying NO to? -->
--
--
--
+- Продажи «в лоб»
+- Несвязанные побочные проекты
+- Перфекционизм вместо запуска
 
 ---
 
@@ -87,7 +91,7 @@ updated: YYYY-MM-DD
 ## Links
 
 - [[0-vision-3y]] - 3-year vision
-- [[1-yearly-2025]] - Annual goals
+- [[1-yearly-2026]] - Annual goals
 - [[3-weekly]] - This week's plan
 
 ---

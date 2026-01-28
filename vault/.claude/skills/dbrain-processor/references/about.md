@@ -17,67 +17,76 @@
 ╚══════════════════════════════════════════════════════════════════╝
 -->
 
+# About User – System Profile
+
 ## Core Identity
 
-**[Your Name], [Age]** — [Your Role/Position]
+**Имя не указано, ~25–35 лет** — соло инженер / билдер ИИ-сервисов
 
-- [Your company/occupation]
-- [Key clients or projects]
-- [Years of experience]
-- [Primary role description]
+- Фрилансер, создающий ИИ-сервисы под ключ
+- Клиенты: блогеры и предприниматели
+- Основная специализация: ИИ-сервисы формата «второй мозг»
+- Основная роль: проектирование, сборка, настройка и поддержка сервисов
+- Формат работы: один, без команды
 
 ## Primary Operating Mode
 
-- [How you think and work]
-- [Your decision-making style]
-- [What you value in work]
-- [Communication preferences]
+- Мыслит системно, лучше работает через чёткие структуры и ограничения
+- Эффективен, когда есть ясный следующий шаг
+- Предпочитает простые решения вместо сложных архитектур
+- Ценит спокойствие, фокус и предсказуемый ритм
+- Избегает хаоса и перегруза
+- Не любит продажи «в лоб», выбирает персональную ценность и результат
 
 ## Strategic Focus
 
-1. [Primary goal]
-2. [Secondary goal]
-3. [Third goal]
+1. Выход на стабильный доход $3k/мес с ИИ-сервиса
+2. Построение устойчивой системы работы без прокрастинации
+3. Сохранение энергии, спокойствия и стабильного ритма
 
 ## Work Domains
 
-Key contexts for classifying notes:
+Ключевые контексты для классификации заметок:
 
 | Domain | Examples |
-|--------|----------|
-| **Work** | projects, tasks, meetings, deadlines |
-| **Learning** | courses, books, insights, skills |
-| **Ideas** | product ideas, improvements, innovations |
-| **Personal** | health, family, hobbies, routines |
+|------|---------|
+| **Work** | ИИ-сервисы, клиенты, фриланс, задачи, доход |
+| **Learning** | ИИ, автоматизация, улучшение сервисов |
+| **Ideas** | идеи продуктов, улучшения «второго мозга» |
+| **Personal** | здоровье, режим, энергия, игры, звукорежиссура |
 
 ## Personal Context
 
-- Family: [situation]
-- Interests: [hobbies]
-- Work style: [morning person, etc.]
-- Languages: [languages you use]
+- Family: важен регулярный контакт и поддерживающие отношения
+- Interests: ИИ, игры, звукорежиссура
+- Work style: дневная работа, подъём около 8 утра
+- Energy pattern: стабильно работает ~6 часов сфокусировано
+- Languages: русский (основной), английский (для работы и ИИ)
 
 ## Goals Hierarchy
 
-1. [Primary life goal]
-2. [Secondary goal]
-3. [Third goal]
-4. [Fourth goal]
+1. Создавать ИИ-сервисы, которые упрощают мышление и принятие решений
+2. Достичь стабильного дохода $3k/мес, работая соло
+3. Выработать дисциплину и привычку доводить дела до конца
+4. Поддерживать здоровье, энергию и спокойствие
 
 ## Decision Filters
 
-When evaluating ideas and tasks:
-- [Question 1]
-- [Question 2]
-- [Question 3]
-- [Question 4]
+При оценке идей и задач:
+
+- Приближает ли это к платящему клиенту?
+- Снижает ли это хаос и прокрастинацию?
+- Можно ли сделать это проще и быстрее?
+- Поддерживает ли это стабильность, а не перегруз?
 
 ## Notes Processing Preferences
 
 ### Language and Style
-- [Your language preferences]
-- [Terminology preferences]
-- [Formatting preferences]
+
+- Язык: русский
+- Стиль: простой, прямой, без мотивационной воды
+- Терминология: практичная, без лишнего техно-жаргона
+- Формат: короткие абзацы, чек-листы, ясные формулировки
 
 ### Structure
 Preferred format:
@@ -86,13 +95,14 @@ Context → Insight → Implication → Next Action
 ```
 
 ### Prioritization
-- **Urgent**: [what counts as urgent] → p1-p2
-- **Strategic**: [what counts as strategic] → p3-p4
+
+- **Urgent (p1–p2)** — задачи, напрямую влияющие на доход и клиентов
+- **Strategic (p3–p4)** — задачи, укрепляющие систему и стабильность
 
 ## Anti-Patterns (AVOID)
 
-When processing entries DO NOT:
-- Create abstract notes without action items
-- Make tasks too vague like "think about..."
-- Duplicate content without synthesis
-- Create lists without priorities
+При обработке заметок и задач НЕ ДЕЛАТЬ:
+- Абстрактные записи без следующего действия
+- Размытые задачи вроде «подумать» или «разобраться»
+- Параллельное ведение множества направлений
+- Усложнение вместо запуска и проверки реальностью

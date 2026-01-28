@@ -1,76 +1,70 @@
 ---
 type: yearly
-period: 2025
-updated: YYYY-MM-DD
+period: 2026
+updated: 2026-01-21
 ---
 
-# Goals 2025
+# Goals 2026
 
 ## Annual Theme
 
-<!-- One word or phrase that defines this year -->
-<!-- Example: "Foundation", "Growth", "Balance" -->
+Стабильность
 
 ---
 
 ## Career & Business
 
-### Goal 1: [Your Goal]
-<!-- What do you want to achieve professionally? -->
+### Goal 1: Первый стабильный доход $3k/мес с ИИ-сервиса
 
 **Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+- [ ] Отсутствие провалов ниже $2500 в месяц
+- [ ] 50 платящих клиентов
 
 **Quarterly Milestones:**
-- Q1: [milestone]
-- Q2: [milestone]
-- Q3: [milestone]
-- Q4: [milestone]
+- Q1: Первый платящий клиент
+- Q2: Несколько платящих клиентов
+- Q3: Доход держится несколько месяцев подряд
+- Q4: Выход на ~$3k/мес
 
 ---
 
 ## Health & Energy
 
-### Goal 1: [Your Goal]
-<!-- What health habits do you want to build? -->
+### Goal 1: Поддерживать осанку и лечить ВСД
 
 **Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+- [ ] Уменьшение симптомов
+- [ ] Меньше дней с плохим самочувствием
 
 ---
 
 ## Relationships
 
-### Goal 1: [Your Goal]
-<!-- How do you want to improve your relationships? -->
+### Goal 1: Регулярный контакт с близкими
 
 **Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+- [ ] Регулярные встречи
+- [ ] Отсутствие длинных пауз без контакта
 
 ---
 
 ## Personal Growth
 
-### Goal 1: [Your Goal]
-<!-- What skills or habits do you want to develop? -->
+### Goal 1: Выработать привычку доводить дела до конца
 
 **Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+- [ ] 100% завершённых задач
+- [ ] Завершение сложных / неприятных задач
 
 ---
 
 ## Financial
 
-### Goal 1: [Your Goal]
-<!-- What financial milestones do you want to reach? -->
+### Goal 1: Создать подушку безопасности
 
 **Success Metrics:**
-- [ ] Metric 1
-- [ ] Metric 2
+- [ ] Достигнута конкретная сумма подушки
+- [ ] Подушка покрывает 3 месяца жизни
 
 ---
 
@@ -78,11 +72,11 @@ updated: YYYY-MM-DD
 
 | Area | Goal | Progress | Status |
 |------|------|----------|--------|
-| Career | [goal] | 0% | --- |
-| Health | [goal] | 0% | --- |
-| Relationships | [goal] | 0% | --- |
-| Growth | [goal] | 0% | --- |
-| Financial | [goal] | 0% | --- |
+| Career | $3k/мес с ИИ-сервиса | 0% | --- |
+| Health | Осанка и ВСД | 0% | --- |
+| Relationships | Регулярный контакт | 0% | --- |
+| Growth | Доводить дела до конца | 0% | --- |
+| Financial | Подушка безопасности | 0% | --- |
 
 ---
 

@@ -2,15 +2,14 @@
 type: vision
 horizon: 3-years
 period: 2025-2027
-updated: YYYY-MM-DD
+updated: 2026-01-21
 ---
 
 # Vision 2025-2027
 
 ## Life Mission
 
-<!-- Your life direction in one sentence -->
-<!-- Example: "Build meaningful technology while maintaining balance across health, relationships, and personal growth." -->
+Создавать полезные ИИ-сервисы, которые упрощают мышление и принятие решений, сохраняя спокойный и сфокусированный ритм жизни.
 
 ---
 
@@ -19,72 +18,72 @@ updated: YYYY-MM-DD
 ### Career & Business
 
 **3-Year Vision:**
-<!-- Where do you want to be professionally in 3 years? -->
+Я работаю один как инженер / билдер, создаю ИИ-сервисы «второй мозг» для блогеров и предпринимателей. Получаю доход с разовой настройки и ежемесячного обслуживания сервисов. Фокусируюсь на создании и улучшении систем, без продаж «в лоб».
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] Создан и запущен ИИ-сервис «второй мозг»
+- [ ] 60 активных клиентов на подписке
+- [ ] Стабильный доход ~$3000 в месяц
 
 ---
 
 ### Health & Energy
 
 **3-Year Vision:**
-<!-- What does your ideal health look like? -->
+Я полон энергии: встаю в 8 утра, работаю около 6 часов с фокусом, регулярно гуляю и занимаюсь спортом.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] Стабильный режим сна и подъёма
+- [ ] 6 часов сфокусированной работы в день
+- [ ] Регулярные прогулки и спорт
 
 ---
 
 ### Relationships & Family
 
 **3-Year Vision:**
-<!-- How do you want your relationships to evolve? -->
+Мои отношения искренние и понимающие.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] Поддерживающие отношения с близкими
+- [ ] Честное и спокойное общение
+- [ ] Чувство взаимного понимания
 
 ---
 
 ### Personal Growth
 
 **3-Year Vision:**
-<!-- What skills, habits, or mindset changes do you want? -->
+Я дисциплинированный, уверенный и спокойный.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] Довожу начатое до конца
+- [ ] Не откладываю сложные задачи
+- [ ] Принимаю решения спокойно и осознанно
 
 ---
 
 ### Financial
 
 **3-Year Vision:**
-<!-- What does financial security look like for you? -->
+Я финансово спокоен: у меня есть подушка безопасности и нет долгов.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] Подушка безопасности $5000
+- [ ] Полное отсутствие долгов
+- [ ] Стабильный ежемесячный доход
 
 ---
 
 ### Creativity & Joy
 
 **3-Year Vision:**
-<!-- What brings you joy? How will you nurture it? -->
+В моей жизни есть игры и звукорежиссура.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] Регулярное время для игр
+- [ ] Занятия звукорежиссурой
+- [ ] Радость и удовольствие вне работы
 
 ---
 
